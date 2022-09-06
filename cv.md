@@ -7,7 +7,6 @@ Aybek Amanbaev
 * [Telegram](https://t.me/aaybekkun)
 * [Facebook](https://www.facebook.com/amanbaevaybek)
 * Phone: +998913809626
-* 
 ---
 
 ### About me:
