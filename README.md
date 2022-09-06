@@ -1,4 +1,3 @@
 # rsschool-cv
 
-Link to CV
-https://aybekkun.github.io/rsschool-cv/cv
+1. Markdown & Git https://aybekkun.github.io/rsschool-cv/cv
