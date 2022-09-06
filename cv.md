@@ -28,6 +28,7 @@ Furthermore, I am adept at handling multiple tasks on a daily basis competently 
 
 ### Language:
 * English B1
+* Russian
 
 ---
 
